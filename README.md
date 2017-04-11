@@ -1,4 +1,2 @@
-# Bankers-Algorithm
+Collection of implementations of well known algorithms
 
-C code
-Algorithm
